@@ -22,6 +22,8 @@ No requiere instalación ni registro — abre el link directamente en el navegad
 pip install -r requirements.txt
 streamlit run app.py
 ```
+![Demo de la app](assets/demo.png)
+
 
 ## Stack técnico
 
